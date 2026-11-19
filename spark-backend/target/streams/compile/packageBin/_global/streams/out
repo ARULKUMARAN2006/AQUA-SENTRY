@@ -1,0 +1,29 @@
+[debug] Packaging D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\aqua-sentry-analytics_2.13-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com
+[debug] 	com\aquasentry
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry
+[debug] 	com\aquasentry\analytics
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics
+[debug] 	com\aquasentry\analytics\AnalyticsApi$$anon$1.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AnalyticsApi$$anon$1.class
+[debug] 	com\aquasentry\analytics\AnalyticsApi$$anonfun$$nestedInanonfun$ingestHandler$5$1.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AnalyticsApi$$anonfun$$nestedInanonfun$ingestHandler$5$1.class
+[debug] 	com\aquasentry\analytics\AnalyticsApi$.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AnalyticsApi$.class
+[debug] 	com\aquasentry\analytics\AnalyticsApi.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AnalyticsApi.class
+[debug] 	com\aquasentry\analytics\AquaSentryAnalytics$.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AquaSentryAnalytics$.class
+[debug] 	com\aquasentry\analytics\AquaSentryAnalytics$Config$.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AquaSentryAnalytics$Config$.class
+[debug] 	com\aquasentry\analytics\AquaSentryAnalytics$Config.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AquaSentryAnalytics$Config.class
+[debug] 	com\aquasentry\analytics\AquaSentryAnalytics.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\AquaSentryAnalytics.class
+[debug] 	com\aquasentry\analytics\Model$.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\Model$.class
+[debug] 	com\aquasentry\analytics\Model.class
+[debug] 	  D:\AGILE METHODOLOGY\project\spark-backend\target\scala-2.13\classes\com\aquasentry\analytics\Model.class
+[debug] Done packaging.

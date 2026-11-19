@@ -1,0 +1,6 @@
+[error] D:\AGILE METHODOLOGY\project\spark-backend\src\main\scala\com\aquasentry\analytics\AquaSentryAnalytics.scala:114:81: type mismatch;
+[error]  found   : String => String
+[error]  required: Any => ?
+[error]     val query = s"(SELECT ${quote(timestampColumn)}, ${sensorColumns.values.map(quote).mkString(", ")} FROM ${quote(table)}) readings"
+[error]                                                                                 ^
+[error] one error found
